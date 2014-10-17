@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fuh:home|Door43 (fuh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fuh|d43-fuh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fuh/archive/master.zip|d43-fuh.zip]]
+
+**Recent Changes**
+{{changes>ns = fuh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fuh|Ethnologue data]]
+
